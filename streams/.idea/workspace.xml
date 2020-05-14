@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9b37f54-2ab5-4114-a337-cb49430f6eaa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/actions/types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/apis/streams.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/GoogleAuth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/streams/StreamCreate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/streams/StreamDelete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/streams/StreamEdit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/streams/StreamForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/streams/StreamList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/streams/StreamShow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/history.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reducers/authReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reducers/streamReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/serviceWorker.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectId" id="1QkMb3tcVUH7YrpUdZzA3FyXucy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/components/streams" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src/components/streams" />
+      <recent name="$PROJECT_DIR$/client/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9b37f54-2ab5-4114-a337-cb49430f6eaa" name="Default Changelist" comment="" />
+      <created>1562110490729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562110490729</updated>
+      <workItem from="1562110491839" duration="22797000" />
+      <workItem from="1562888264847" duration="1833000" />
+      <workItem from="1564454265669" duration="23000" />
+      <workItem from="1565044468996" duration="243000" />
+      <workItem from="1565311112383" duration="106000" />
+      <workItem from="1568310210393" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
